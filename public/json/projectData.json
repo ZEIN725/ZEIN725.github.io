@@ -1,0 +1,44 @@
+[
+    {
+        "id" : 1,
+        "name" : "Project 1",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "status" : "active",
+        "images" : "images/project1.jpg"
+    },
+    {
+        "id" : 2,
+        "name" : "Project 2",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "status" : "inactive",
+        "images" : "images/project1.jpg"
+    },
+    {
+        "id" : 3,
+        "name" : "Project 3",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "status" : "active",
+        "images" : "images/project2.jpg" 
+    },
+    {
+        "id" : 4,
+        "name" : "Project 4",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "status" : "completed",
+        "images" : "images/project2.jpg"
+    },
+    {
+        "id" : 5,
+        "name" : "Project 5",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "status" : "inactive",
+        "images" : "images/project2.jpg"
+    },
+    {
+        "id" : 6,
+        "name" : "Project 6",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "status" : "active",
+        "images" : "images/project2.jpg"
+    }
+]
